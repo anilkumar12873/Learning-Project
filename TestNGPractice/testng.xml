@@ -1,0 +1,15 @@
+
+
+
+
+<suite name="TestSuite">
+
+    <test name="TestCase">
+
+        <classes>
+            <class name="com.newone.Example"/>
+        </classes>
+
+    </test>
+
+</suite>
